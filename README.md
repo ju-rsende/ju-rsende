@@ -1,9 +1,21 @@
-### Hi there 👋
+<div align="center">
 
-![Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=ju-rsende&show_icons=true&theme=synthwave)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2300&pause=1000&color=801062&center=true&vCenter=true&width=435&height=40&lines=Hello!;Welcome+to+my+profile+%3A)" alt="Typing SVG" />
 
+</div>
 
-[![Ju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ju-rsende&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+My name is Julia!
+
+I'm a Software Enginner major, currently in the second semester.
+
+<img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Belo Horizonte, MG - Brazil
+
+## Activity
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ju-rsende&show_icons=true&theme=synthwave"/>
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ju-rsende&theme=synthwave"/>
+</div>
 
 
 <div align="center"> 
