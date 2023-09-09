@@ -2,10 +2,8 @@
 
 ![Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=ju-rsende&show_icons=true&theme=synthwave)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 [![Ju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ju-rsende&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 <div align="center"> 
