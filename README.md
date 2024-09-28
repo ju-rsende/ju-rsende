@@ -6,7 +6,7 @@
 
 My name is Julia!
 
-I'm a Software Engineer major, currently in the second semester.
+I'm a Software Engineer major, currently in the forth semester.
 
 <img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Belo Horizonte, MG - Brazil
 
